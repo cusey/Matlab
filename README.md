@@ -17,7 +17,7 @@ height="150px"/>
 * [simplify](https://www.mathworks.com/help/symbolic/simplify.html) - Algebraic simplification      
 * [expand](https://www.mathworks.com/help/symbolic/mupad_ref/expand.html) - multipy out the polynomial     
 * [solve](https://www.mathworks.com/help/symbolic/solve.html) - Equations and systems solver    
-* [factor](https://www.mathworks.com/help/symbolic/factor.html)    
+* [factor](https://www.mathworks.com/help/symbolic/factor.html) - Factorization         
 * [collect](https://www.mathworks.com/help/symbolic/collect.html) - Collect coefficient    
 * [subs](https://www.mathworks.com/help/symbolic/subs.htm) - Symbolic substitution    
 * [poly2sym](https://www.mathworks.com/help/symbolic/poly2sym.html) - Create symbolic polynomial from vector of coefficients     
