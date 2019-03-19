@@ -19,7 +19,7 @@ height="150px"/>
 * [solve](https://www.mathworks.com/help/symbolic/solve.html) - Equations and systems solver    
 * [factor](https://www.mathworks.com/help/symbolic/factor.html) - Factorization         
 * [collect](https://www.mathworks.com/help/symbolic/collect.html) - Collect coefficient    
-* [subs](https://www.mathworks.com/help/symbolic/subs.htm) - Symbolic substitution    
+* [subs](https://www.mathworks.com/help/symbolic/subs.html?s_tid=doc_ta) - Symbolic substitution    
 * [poly2sym](https://www.mathworks.com/help/symbolic/poly2sym.html) - Create symbolic polynomial from vector of coefficients     
 * [sym2poly](https://www.mathworks.com/help/symbolic/sym2poly.html) - Extract vector of all numeric coefficients, including zeros, from symbolic polynomial     
 * [plot](https://www.mathworks.com/help/matlab/ref/plot.html) - 2-D line plot      
